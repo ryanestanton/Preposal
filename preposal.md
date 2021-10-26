@@ -8,7 +8,7 @@ TODO
 
 Andrew Tran
 
-Brennan
+Brennan Cole
 
 ## Do you have any questions of your own?
 
