@@ -2,7 +2,9 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Basic ASL hand recognition
+
+Basic tone generator synth
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
